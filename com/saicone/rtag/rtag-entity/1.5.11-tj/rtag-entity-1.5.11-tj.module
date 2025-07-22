@@ -28,10 +28,10 @@
           "name": "rtag-entity-1.5.11-tj.jar",
           "url": "rtag-entity-1.5.11-tj.jar",
           "size": 8150,
-          "sha512": "3bfa5fbe234c98f10b3171849b979321476318df7b8424ad7933c8247928567a41f8d66c4d1d36209adf1119869b7b69b95a8a112bfee8f71ddbd79a0c65a299",
-          "sha256": "cc2ff915926a0fda9d5d5a748e0caf7e82fd91e23b3d0e1e2cc6bce48c8bb95e",
-          "sha1": "c10d9d2dab34e4e8c32ea862e6cc894558d05340",
-          "md5": "115ea379f529a42860a317be69d3c48f"
+          "sha512": "adafafef2c397b2b202a2725b76ba60fb1be766a0506f7b54786eda256e2f2146f4035a1e4d2df598054ba242f9376f516e25c5bcc12a2879dfaab87d69313cf",
+          "sha256": "1562d6a4914cc302a5ad29ea255a3fb0abbb0377cd1469badb6cdb39e9b4d492",
+          "sha1": "aa4a69d069a623e598265691897d5fec4ce1c64e",
+          "md5": "fdcb8afe2b40cc1049fc2e8a95f1e18e"
         }
       ]
     },
@@ -58,10 +58,10 @@
           "name": "rtag-entity-1.5.11-tj.jar",
           "url": "rtag-entity-1.5.11-tj.jar",
           "size": 8150,
-          "sha512": "3bfa5fbe234c98f10b3171849b979321476318df7b8424ad7933c8247928567a41f8d66c4d1d36209adf1119869b7b69b95a8a112bfee8f71ddbd79a0c65a299",
-          "sha256": "cc2ff915926a0fda9d5d5a748e0caf7e82fd91e23b3d0e1e2cc6bce48c8bb95e",
-          "sha1": "c10d9d2dab34e4e8c32ea862e6cc894558d05340",
-          "md5": "115ea379f529a42860a317be69d3c48f"
+          "sha512": "adafafef2c397b2b202a2725b76ba60fb1be766a0506f7b54786eda256e2f2146f4035a1e4d2df598054ba242f9376f516e25c5bcc12a2879dfaab87d69313cf",
+          "sha256": "1562d6a4914cc302a5ad29ea255a3fb0abbb0377cd1469badb6cdb39e9b4d492",
+          "sha1": "aa4a69d069a623e598265691897d5fec4ce1c64e",
+          "md5": "fdcb8afe2b40cc1049fc2e8a95f1e18e"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "rtag-entity-1.5.11-tj-sources.jar",
           "url": "rtag-entity-1.5.11-tj-sources.jar",
           "size": 5388,
-          "sha512": "39d1b4400672dd0b57c8edf9f342bc62c1bb627d6e6d9be5563b34167561f6d36675377b99a3f8b3515cfd2222271feb60d04d6b78d57f5fcbad5326ac4ac288",
-          "sha256": "4344640a3cd48d7e563ece8a931befa3409117bb119105bcf02a2cda38a783e8",
-          "sha1": "ec2de2df9e3621480744dafe63c759c31cd3be68",
-          "md5": "28a489cb41d99f2a4ea8e20feba985d4"
+          "sha512": "351d5800818d60218daa6067aab2bf7c083c60933ce4bf54620b8841e11e93e1fa8d5624918bbceb1bace4a8ef457c1a7e30ea7eca656dd100acee149716f1b1",
+          "sha256": "3e274db751da8bfab5d66dd418143ccc6006c0c7226a18adcfa855a7399d86a6",
+          "sha1": "7bee64b3a45a4084a2a62be7a908b59abc5c535b",
+          "md5": "526f5da1d46ab0e64ae3f0254fadae36"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "rtag-entity-1.5.11-tj-javadoc.jar",
           "url": "rtag-entity-1.5.11-tj-javadoc.jar",
-          "size": 92171,
-          "sha512": "1f9e5027a9db62e3a551dd32a5b93f8e5822faecc7134dddac763a7eb9a6e030ac6a1ed80e06d7df64932534d2538c4d9d5988c9c877afa3d8181806eb088c72",
-          "sha256": "0c309c0685fc54b39d8bc69b1e4231287624e6bb221f761e2cd45556fcde39f7",
-          "sha1": "8fec1f741494437f3a709e661121777ae7f636a6",
-          "md5": "7de9e4c8810a4c9d467fd6bf25eea50c"
+          "size": 97449,
+          "sha512": "9b06a62ee9885cddc4353698bb06010b06b59a1fe485b372f76b13f17050a9181070d9d1067c0105fe43ea20af023f3f4de945091d40ae44147241c638039013",
+          "sha256": "5532142ee5ba1c57a601e4dc1cc8d464927bbea4d96c07fb15bd873024db234b",
+          "sha1": "0aa13bd212596081b58c15734eab9f0642c1bd46",
+          "md5": "0896d828c57948eef2f639f528569059"
         }
       ]
     }
