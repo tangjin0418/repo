@@ -3,11 +3,12 @@
   <groupId>com.saicone.rtag</groupId>
   <artifactId>rtag</artifactId>
   <versioning>
-    <latest>1.5.11-tj</latest>
-    <release>1.5.11-tj</release>
+    <latest>1.5.11-tj-temp</latest>
+    <release>1.5.11-tj-temp</release>
     <versions>
       <version>1.5.11-tj</version>
+      <version>1.5.11-tj-temp</version>
     </versions>
-    <lastUpdated>20250722041304</lastUpdated>
+    <lastUpdated>20250722042946</lastUpdated>
   </versioning>
 </metadata>

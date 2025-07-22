@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.saicone.rtag",
+    "module": "rtag",
+    "version": "1.5.11-tj-temp",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rtag-1.5.11-tj-temp.jar",
+          "url": "rtag-1.5.11-tj-temp.jar",
+          "size": 101230,
+          "sha512": "6d3c447fbc8c75bd4b096c52df25910c222022f27c25127eed8cb577bbf1c5d750e25617787a473945b6e802626d696d21250cf909b4236ff1f0e517a9140805",
+          "sha256": "706f82bcb744e5e69aa620d431c1c87a621f84618fa02f4ddafe842c86c65dbd",
+          "sha1": "6e1f2a8fe7e9ec13a116c69d0daae357b39a4a70",
+          "md5": "fd35e5f1ad4c672d13ae970469394eba"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rtag-1.5.11-tj-temp.jar",
+          "url": "rtag-1.5.11-tj-temp.jar",
+          "size": 101230,
+          "sha512": "6d3c447fbc8c75bd4b096c52df25910c222022f27c25127eed8cb577bbf1c5d750e25617787a473945b6e802626d696d21250cf909b4236ff1f0e517a9140805",
+          "sha256": "706f82bcb744e5e69aa620d431c1c87a621f84618fa02f4ddafe842c86c65dbd",
+          "sha1": "6e1f2a8fe7e9ec13a116c69d0daae357b39a4a70",
+          "md5": "fd35e5f1ad4c672d13ae970469394eba"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rtag-1.5.11-tj-temp-sources.jar",
+          "url": "rtag-1.5.11-tj-temp-sources.jar",
+          "size": 57415,
+          "sha512": "c60449badb610d0dee58bc9b09c682393523c7bbe3c30e00fe7c8cbaeb7f24d1e7819fd732a4254c44297e05b90cb7e7ecd703d1d367e87595a2ea0df5959994",
+          "sha256": "ce0e174baa77035f6280359354c289a34e972149710e29b258c887fa31a7f86e",
+          "sha1": "5c20347d50274a165e5db0724c85e825f7a08adc",
+          "md5": "a7cf6a45179dd468c589f4c195c4eaf6"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rtag-1.5.11-tj-temp-javadoc.jar",
+          "url": "rtag-1.5.11-tj-temp-javadoc.jar",
+          "size": 247575,
+          "sha512": "559c9d73bc688254998a38c510ba53a16025328e09943138915568eac025bcfd21b472690dfe88c7d8055cbfc0df5708af20220144522d5d51a479fa236dcc86",
+          "sha256": "fc81a554428fc7af5dc7a2f6131fc99b05d0fed87a9e6dad7158eec690adc4db",
+          "sha1": "93cffb210186e022340782fd5ce22d1668bfe2db",
+          "md5": "c950de48780f5ae4cae04d7d0237c319"
+        }
+      ]
+    }
+  ]
+}
