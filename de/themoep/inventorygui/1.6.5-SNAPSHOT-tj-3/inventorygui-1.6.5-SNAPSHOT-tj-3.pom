@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.themoep</groupId>
   <artifactId>inventorygui</artifactId>
-  <version>1.6.5-SNAPSHOT-tj-2</version>
+  <version>1.6.5-SNAPSHOT-tj-3</version>
   <name>InventoryGui</name>
   <dependencies>
     <dependency>
