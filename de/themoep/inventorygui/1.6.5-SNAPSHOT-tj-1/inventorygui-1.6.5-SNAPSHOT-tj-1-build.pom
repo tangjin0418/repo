@@ -6,7 +6,7 @@
 
     <groupId>de.themoep</groupId>
     <artifactId>inventorygui</artifactId>
-    <version>1.6.9-SNAPSHOT-tj</version>
+    <version>1.6.5-SNAPSHOT-tj-1</version>
     <packaging>jar</packaging>
 
     <name>InventoryGui</name>
