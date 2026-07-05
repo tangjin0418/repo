@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 05 13:29:01 CST 2026
+item-nbt-api-2.15.8-tj-javadoc.jar>=
+item-nbt-api-2.15.8-tj-sources.jar>=
+item-nbt-api-2.15.8-tj.jar>=
+item-nbt-api-2.15.8-tj.pom>=
